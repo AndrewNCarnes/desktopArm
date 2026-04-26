@@ -1,0 +1,34 @@
+Robots Researched:
+  1. AR4-MK4
+  2. PAROL6
+  3. BCN3D-Moveo | https://www.youtube.com/watch?v=nWLDvBrn2no
+
+Doc1: https://docs.google.com/document/d/18Uwzbe9Zx2vW1v4ODHMwWGJVKThwwmKM/edit?usp=sharing&ouid=101545799271459434913&rtpof=true&sd=true
+
+Doc2: https://docs.google.com/document/d/1VrcaXhTuyJxKBtCFiu-QVdtGW6m5dTPm/edit?usp=sharing&ouid=101545799271459434913&rtpof=true&sd=true
+
+Doc3: https://docs.google.com/document/d/1108XIdK8aTHEI5ssOPTP0SxZfvyQDZDn_VZ0NIMQzsA/edit?usp=sharing
+
+Notes:
+1. If you  use smth like TB6600 or A4988, than if you'll use DM556, DM554, TMC2209, you'd be strongly surprised by how quietly and evenly stepper can run))
+2. The TMC2240 is pretty nice for this if you don't need to run over ~36v - I designed a NEMA17 size backpack driver using the TMC2240 and an RP2350, optionally with an AS5047P on the back for closing the loop. Whole thing runs over CAN-FD using MCP2518 controllers. In theory 4 wires to power and control any reasonable number of motors 🤘
+3. we’re using Nema 17 stepper motors with MKS Servo 42C encoders
+4. MKS Servo42C closed-loop stepper drivers
+5. knurled inserts may be better than hex?
+
+Cycloidal Gear Parameters Calculator: https://docs.google.com/spreadsheets/d/1Ed2wSfX8HBHjMdK8Zyc9rBuXZQdFPH_wizXCsDVCwEQ/edit?usp=sharing
+  - Reference Paper: https://www.sciencedirect.com/science/article/pii/S1110016824001182
+  
+Using SweepDynamics 26:1 Cycloidal Drive as inspiration
+
+BOM:
+  1. 40x52x7mm Bearings 2RS: https://tinyurl.com/ydhma5cm
+  2. 10x15x4mm Bearings 2RS: https://tinyurl.com/4pemv3ch
+  3. 12x18x4mm Bearings 2RS: https://tinyurl.com/444suahh
+  4. MKS SERVO42C NEMA17 Closed Loop Stepper Motor Driver: https://tinyurl.com/5379wb5d
+  5. Nema 17 Stepper Motor Bipolar 2A 59Ncm(84oz.in) 48mm Body 4-Lead W/ 1m Cable and Connector: https://tinyurl.com/zhvkc69d
+  6. M3x4mmx25mm Shoulder Bolts: https://tinyurl.com/5n8phr4j
+  7. M3x8mm Countersunk Bolts: https://tinyurl.com/38ywn7wn
+  8. M3 Nuts: https://tinyurl.com/bdh3966v
+  9. M4x6mmx10mm Aluminium Rollers: https://tinyurl.com/5n8sa6j7
+
