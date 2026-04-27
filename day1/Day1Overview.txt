@@ -27,8 +27,10 @@ BOM:
   3. 12x18x4mm Bearings 2RS: https://tinyurl.com/444suahh
   4. MKS SERVO42C NEMA17 Closed Loop Stepper Motor Driver: https://tinyurl.com/5379wb5d
   5. Nema 17 Stepper Motor Bipolar 2A 59Ncm(84oz.in) 48mm Body 4-Lead W/ 1m Cable and Connector: https://tinyurl.com/zhvkc69d
-  6. M3x4mmx25mm Shoulder Bolts: https://tinyurl.com/5n8phr4j
-  7. M3x8mm Countersunk Bolts: https://tinyurl.com/38ywn7wn
-  8. M3 Nuts: https://tinyurl.com/bdh3966v
-  9. M4x6mmx10mm Aluminium Rollers: https://tinyurl.com/5n8sa6j7
+  6. Stepper w/ Driver: https://tinyurl.com/4a5y3zcw
+  7. M3x4mmx25mm Shoulder Bolts: https://tinyurl.com/5n8phr4j
+  8. M3x8mm Countersunk Bolts: https://tinyurl.com/38ywn7wn
+  9. M3 Nuts: https://tinyurl.com/bdh3966v
+  10. M4x6mmx10mm Aluminium Rollers: https://tinyurl.com/5n8sa6j7
 
+ 
